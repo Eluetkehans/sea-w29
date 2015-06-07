@@ -79,3 +79,12 @@ git commit -m '<message>' Commits the staging area to the repository with a <mes
 ##### 12. Push the branch to the `origin` remote on GitHub
 
 ##### 13. Send a pull request from this branch to Code Fellows' `master` branch
+
+What contributed the most to your learning?
+  The hands on sections contributed most, especially the things that were not in the pre-work, such as the keypairs.
+
+What was least helpful?
+  All the time spent on things covered in the pre-work. The pre-work already had a good feed back system. Most of this class felt like busy work.
+  
+Would you recommend to a friend?
+  I would recommend the pre-work to a friend or the workshop to a friend. To do both was pretty redundant. By themselves 8/10. Together 3/10. Very little new information was provided in the class.
