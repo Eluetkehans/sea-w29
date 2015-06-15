@@ -1,0 +1,9 @@
+cd Changes which directory you are in. You can use absolute or relative paths.
+
+ls lists out most of what is in the pwd. ls -a will show you hidden files.
+
+mv is used to move and rename files.
+
+mkdir makes a directory file.
+
+man can be used to find out more information about a command.
